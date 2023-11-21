@@ -12,6 +12,9 @@
     "express": "^4.12.4",
     "mongoose": "^5.11.15"
   },
+  "engines": {
+    "node": ">=18.18.0 <19.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
